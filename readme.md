@@ -13,5 +13,8 @@
 1. use the cd command to navigate to the downloaded projects directory
 2. Run the npm start command to run the project
 
+# Running Application in Cloud
+So far the only working address for application on the web is the public IPv4 address with port 3000
+
 ***
 
