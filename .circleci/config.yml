@@ -33,6 +33,7 @@ jobs:
           paths:
             - ./node_modules
 
+  # I am going to try push specifically to the main branch
   deploy:
     docker:
       - image: circleci/node:10.16.3
